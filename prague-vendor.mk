@@ -24,15 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/prague/proprietary/odm/etc/audio/modem/modem_PRAGUE_unicomiot.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/modem/modem_PRAGUE_unicomiot.xml \
     vendor/huawei/prague/proprietary/odm/etc/audio/sws/sws_PRAGUE_normal.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/sws/sws_PRAGUE_normal.xml \
     vendor/huawei/prague/proprietary/odm/etc/audio/sws/sws_config.txt:$(TARGET_COPY_OUT_ODM)/etc/audio/sws/sws_config.txt \
-    vendor/huawei/prague/proprietary/odm/etc/camera/mmi7cm/device.config:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/device.config \
-    vendor/huawei/prague/proprietary/odm/etc/camera/mmi7cm/prague_imx386e3_ofilm/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/prague_imx386e3_ofilm/mmi7cmConfig.xml \
-    vendor/huawei/prague/proprietary/odm/etc/camera/mmi7cm/prague_imx386e3_sunny/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/prague_imx386e3_sunny/mmi7cmConfig.xml \
-    vendor/huawei/prague/proprietary/odm/etc/camera/mmi7cm/prague_imx486_ofilm/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/prague_imx486_ofilm/mmi7cmConfig.xml \
-    vendor/huawei/prague/proprietary/odm/etc/camera/mmi7cm/prague_imx486_sunny/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/prague_imx486_sunny/mmi7cmConfig.xml \
-    vendor/huawei/prague/proprietary/odm/etc/camera/mmi7cm/prague_ov12870e3_liteon/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/prague_ov12870e3_liteon/mmi7cmConfig.xml \
-    vendor/huawei/prague/proprietary/odm/etc/camera/mmi7cm/prague_ov12a10_foxconn/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/prague_ov12a10_foxconn/mmi7cmConfig.xml \
-    vendor/huawei/prague/proprietary/odm/etc/camera/mmi7cm/prague_ov12a10_liteon/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/prague_ov12a10_liteon/mmi7cmConfig.xml \
-    vendor/huawei/prague/proprietary/odm/etc/camera/mmi7cm/prague_ov12a10_sunny/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/prague_ov12a10_sunny/mmi7cmConfig.xml \
     vendor/huawei/prague/proprietary/odm/firmware/ts/prague_CYTT21403_default.bin:$(TARGET_COPY_OUT_ODM)/firmware/ts/prague_CYTT21403_default.bin \
     vendor/huawei/prague/proprietary/odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.HI843_OFILM.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.PRAGUE.p.HI843_OFILM.so \
     vendor/huawei/prague/proprietary/odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.IMX219_LITEON.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.PRAGUE.p.IMX219_LITEON.so \
